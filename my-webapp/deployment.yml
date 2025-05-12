@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: webapp
-          image: hari2345/batch13:342
+          image: hari2345/batch13:343
           ports:
             - containerPort: 8082
